@@ -103,40 +103,40 @@ The API will be available at `http://localhost:8000`.
 
 ---
 ## 🎬 Demo
-landing page(light mode)
+### landing page(light mode)
 ![image](https://github.com/user-attachments/assets/4a4752ea-5d6d-47be-b531-b529394aa8a8)
 
-landing page(Dark mode)
+### landing page(Dark mode)
 ![image](https://github.com/user-attachments/assets/d3bf256c-b25d-4179-904d-927e7d861823)
 
-creation of a Form Template
+### creation of a Form Template
 ![image](https://github.com/user-attachments/assets/4f17ff2f-5763-4758-9e27-b4173ddf39af)
-Adding new field
+### Adding new field
 
 ![image](https://github.com/user-attachments/assets/30ded009-b436-468e-b43c-8a6c12001a5d)
 
-History of updation of Form
+### History of updation of Form
 ![image](https://github.com/user-attachments/assets/64334d7e-f19c-47bc-b5d6-0da93c990e9a)
 
-check the Submission(Responses) with comparision Feature
+### check the Submission(Responses) with comparision Feature
 ![image](https://github.com/user-attachments/assets/f17dba88-614a-49a1-ac9c-b0915cd689b9)
 
-there are two view option tab view and list view
-following is the list view :
+### there are two view option tab view and list view
+### following is the list view :
 ![image](https://github.com/user-attachments/assets/7e091483-bdaa-4905-bbf0-c01abc419776)
+### various data type Supported
 
-various data type Supported
 ![image](https://github.com/user-attachments/assets/68309296-8b10-45a1-b83d-e58cb0a7bb14)
 
-live preview pane during creation of Form
+### live preview pane during creation of Form
 ![image](https://github.com/user-attachments/assets/4f7c26b2-abb7-4cce-bee7-d3b888db7d19)
 
-Search bar with Advanced search Feature
+### Search bar with Advanced search Feature
 ![image](https://github.com/user-attachments/assets/45c65b9a-8c5b-42a8-84e4-6fe0017d8eac)
 
 
 
-*This section will be updated in the future with a full walkthrough, screenshots, and a live demo link. Stay tuned!*
+*This section will be updated in the future with a full walkthrough and a live demo link. Stay tuned!*
 
 ---
 ## 🌟 Wow Features (Why You'll Love It)
